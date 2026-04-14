@@ -8,6 +8,7 @@
 •	Assisted in implementation and execution in Google Colab 
 •	Performed basic testing and observation of model outputs 
 •	Supported documentation, report preparation, and presentation (PPT)
+
 2.Samya Mehta (23BDS0204)
 •	Led the major development of the TruthX-Lite model in Google Colab 
 •	Implemented multi-layer fusion and contrastive decoding techniques 
